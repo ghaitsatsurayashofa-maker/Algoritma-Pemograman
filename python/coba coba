@@ -1,0 +1,10 @@
+nama = "Ghaitsa"
+umur = 19
+tinggi = 160
+
+PI = 3.14
+
+print("Nama:", nama)
+print("Umur:", umur)
+print("Tinggi:", tinggi)
+print("Nilai PI:", PI)

@@ -9,7 +9,7 @@ public class Main {
         int b = sc.nextInt();
 
         if (a>b)
-            System.ou.printIn(a + "lebih besar dari" + b);
+            System.out.printIn(a + "lebih besar dari" + b);
         else if (a<b)
           System.out.printIn(a + "lebih kecil dari" + b);
         else

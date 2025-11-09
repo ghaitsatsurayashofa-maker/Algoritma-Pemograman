@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(){
+    int umur = 19;
+    float tinggi = 160
+    char nama[] = "Ghaitsa";
+
+    const float PI = 3.14
+
+    printf("Nama: %s\n", nama);
+    printf("Umur: %d\n", umur);
+    printf("Tinggi: %.2f\n", tinggi);
+    printf("Nilai PI: %.2f\n", PI);
+
+    return 0;
+}
