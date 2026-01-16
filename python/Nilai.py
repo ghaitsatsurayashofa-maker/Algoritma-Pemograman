@@ -1,4 +1,4 @@
-tugas = float(input("Masukkan nilai tugas:"))
+Ptugas = float(input("Masukkan nilai tugas:"))
 uts = float(input("Masukkan nilai UTS:"))
 uas = float(input("Masukkan nilai UAS"))
 
